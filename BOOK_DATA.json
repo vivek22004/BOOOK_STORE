@@ -1,0 +1,597 @@
+[
+  {
+    "id": 1,
+    "title": "Duchesnea Sm.",
+    "author": "Gifford Maund",
+    "price": 139.25,
+    "publication_date": "7/12/2015"
+  },
+  {
+    "id": 2,
+    "title": "Lilium pyrophilum M.W. Skinner & Sorrie",
+    "author": "Erny Denty",
+    "price": 991.07,
+    "publication_date": "6/27/2000"
+  },
+  {
+    "id": 3,
+    "title": "Martynia L.",
+    "author": "Wynn Ducker",
+    "price": 923.85,
+    "publication_date": "3/12/2001"
+  },
+  {
+    "id": 4,
+    "title": "Blechnum spicant (L.) Sm.",
+    "author": "Tammi Morter",
+    "price": 131.45,
+    "publication_date": "7/26/2008"
+  },
+  {
+    "id": 5,
+    "title": "Parodia Speg.",
+    "author": "Sophia Matuschek",
+    "price": 255.7,
+    "publication_date": "2/21/2014"
+  },
+  {
+    "id": 6,
+    "title": "Pluchea foetida (L.) DC. var. foetida",
+    "author": "Marwin Keeves",
+    "price": 75.76,
+    "publication_date": "8/28/2006"
+  },
+  {
+    "id": 7,
+    "title": "Cheilanthes fendleri Hook.",
+    "author": "Emelyne Girdwood",
+    "price": 95.31,
+    "publication_date": "6/16/2002"
+  },
+  {
+    "id": 8,
+    "title": "Xanthosoma helleborifolium (Jacq.) Schott",
+    "author": "Jody O'Currane",
+    "price": 857.87,
+    "publication_date": "8/18/2002"
+  },
+  {
+    "id": 9,
+    "title": "Gilia capitata Sims ssp. staminea (Greene) V.E. Grant",
+    "author": "Felicity Hansley",
+    "price": 936.69,
+    "publication_date": "5/9/2015"
+  },
+  {
+    "id": 10,
+    "title": "Dichondra donelliana Tharp & M.C. Johnst.",
+    "author": "Yves Ghio",
+    "price": 619.74,
+    "publication_date": "5/28/2004"
+  },
+  {
+    "id": 11,
+    "title": "Lobelia canbyi A. Gray",
+    "author": "Loralee Acuna",
+    "price": 115.6,
+    "publication_date": "6/11/2003"
+  },
+  {
+    "id": 12,
+    "title": "Myriotrema glaucophaeum (Krempelh.) Hale",
+    "author": "Kimmi Brazelton",
+    "price": 327.62,
+    "publication_date": "8/31/2022"
+  },
+  {
+    "id": 13,
+    "title": "THE TRUE LIE",
+    "author": "Homere Rowatt",
+    "price": 627.91,
+    "publication_date": "10/26/2015"
+  },
+  {
+    "id": 14,
+    "title": "Rubus exeter L.H. Bailey",
+    "author": "Charline Philpin",
+    "price": 409.26,
+    "publication_date": "4/15/2011"
+  },
+  {
+    "id": 15,
+    "title": "Phacelia inundata J.T. Howell",
+    "author": "Sheffield Huxstep",
+    "price": 628.81,
+    "publication_date": "8/30/2003"
+  },
+  {
+    "id": 16,
+    "title": "×Agropogon littoralis (Sm.) C.E. Hubbard",
+    "author": "Adria d' Elboux",
+    "price": 581.58,
+    "publication_date": "4/26/2008"
+  },
+  {
+    "id": 17,
+    "title": "Draba incana L.",
+    "author": "Alfy Maier",
+    "price": 202.27,
+    "publication_date": "11/12/2015"
+  },
+  {
+    "id": 18,
+    "title": "Solidago fistulosa Mill.",
+    "author": "Ganny Carson",
+    "price": 819.34,
+    "publication_date": "10/15/2001"
+  },
+  {
+    "id": 19,
+    "title": "Trematolobelia wimmeri O. Deg. & I. Deg.",
+    "author": "Cathrine Fiddiman",
+    "price": 665.85,
+    "publication_date": "8/3/2019"
+  },
+  {
+    "id": 20,
+    "title": "Solidago uliginosa Nutt.",
+    "author": "Elizabet Gonsalvo",
+    "price": 107.72,
+    "publication_date": "9/21/2022"
+  },
+  {
+    "id": 21,
+    "title": "Psophocarpus palustris Desv.",
+    "author": "Loni Tyce",
+    "price": 85.21,
+    "publication_date": "10/29/2009"
+  },
+  {
+    "id": 23,
+    "title": "Sicyos lasiocephalus Skottsb.",
+    "author": "Reggie McManus",
+    "price": 89.65,
+    "publication_date": "11/21/2000"
+  },
+  {
+    "id": 24,
+    "title": "Cyanea eleeleensis (H. St. John) Lammers",
+    "author": "Del Robertet",
+    "price": 116.72,
+    "publication_date": "9/24/2012"
+  },
+  {
+    "id": 25,
+    "title": "Peperomia emarginella (Sw. ex Wikstr.) C. DC.",
+    "author": "Ianthe Cato",
+    "price": 986.15,
+    "publication_date": "11/7/2020"
+  },
+  {
+    "id": 27,
+    "title": "Cymbopogon schoenanthus (L.) Spreng. [excluded]",
+    "author": "Mitchel Lakin",
+    "price": 234.34,
+    "publication_date": "6/15/2006"
+  },
+  {
+    "id": 28,
+    "title": "Caloplaca novomexicana (Fink) ?, ined.?",
+    "author": "Elladine Conyers",
+    "price": 837.06,
+    "publication_date": "1/29/2020"
+  },
+  {
+    "id": 29,
+    "title": "Rosa carolina L. var. carolina",
+    "author": "Nealy Scholard",
+    "price": 889.83,
+    "publication_date": "12/3/2018"
+  },
+  {
+    "id": 30,
+    "title": "Geranium hillebrandii Aedo & Muñoz-Garm.",
+    "author": "Gusti Mennithorp",
+    "price": 900.22,
+    "publication_date": "11/26/2003"
+  },
+  {
+    "id": 31,
+    "title": "Lupinus oreganus A. Heller",
+    "author": "Scarlett O'Cullen",
+    "price": 905.73,
+    "publication_date": "1/30/2007"
+  },
+  {
+    "id": 32,
+    "title": "Eucalyptus diversicolor F. Muell.",
+    "author": "Jimmie Saltmarsh",
+    "price": 533.99,
+    "publication_date": "8/15/2011"
+  },
+  {
+    "id": 33,
+    "title": "Phoradendron rubrum (L.) Griseb.",
+    "author": "Coreen Alishoner",
+    "price": 1.03,
+    "publication_date": "8/30/2005"
+  },
+  {
+    "id": 34,
+    "title": "Plantago australis Lam. ssp. hirtella (Kunth) Rahn",
+    "author": "Ashlin Sibary",
+    "price": 590.7,
+    "publication_date": "10/29/2009"
+  },
+  {
+    "id": 35,
+    "title": "Opuntia littoralis (Engelm.) Cockerell var. piercei (Fosberg) L.D. Benson & Walkington",
+    "author": "Meredith Bensley",
+    "price": 565.65,
+    "publication_date": "10/16/2010"
+  },
+  {
+    "id": 36,
+    "title": "Androsace septentrionalis L. ssp. glandulosa (Wooton & Standl.) G.T. Robbins",
+    "author": "Lorrie Huggons",
+    "price": 343.72,
+    "publication_date": "7/1/2022"
+  },
+  {
+    "id": 37,
+    "title": "Heliotropium ramosissimum (Lehm.) DC.",
+    "author": "Tally Holmyard",
+    "price": 27.53,
+    "publication_date": "1/13/2022"
+  },
+  {
+    "id": 38,
+    "title": "Filicium decipiens (Wight & Arn.) Thwaites",
+    "author": "Bron Halsall",
+    "price": 146.23,
+    "publication_date": "9/28/2015"
+  },
+  {
+    "id": 39,
+    "title": "Asplenium ×curtissii Underw. (pro sp.)",
+    "author": "Yancy Critten",
+    "price": 138.97,
+    "publication_date": "7/21/2011"
+  },
+  {
+    "id": 40,
+    "title": "Draba arctogena (E. Ekman) E. Ekman",
+    "author": "Carly Klaessen",
+    "price": 858.06,
+    "publication_date": "1/11/2022"
+  },
+  {
+    "id": 41,
+    "title": "Machaeranthera carnosa (A. Gray) G.L. Nesom var. intricata (A. Gray) G.L. Nesom",
+    "author": "Hamel Disney",
+    "price": 963.63,
+    "publication_date": "10/7/2003"
+  },
+  {
+    "id": 42,
+    "title": "Rhynchospora sola Gale [excluded]",
+    "author": "Codie Craigheid",
+    "price": 585.85,
+    "publication_date": "1/7/2003"
+  },
+  {
+    "id": 43,
+    "title": "Camissonia hirtella (Greene) P.H. Raven",
+    "author": "Karla Fulop",
+    "price": 989.52,
+    "publication_date": "4/3/2015"
+  },
+  {
+    "id": 44,
+    "title": "Lepidium fremontii S. Watson var. fremontii",
+    "author": "Valli Clery",
+    "price": 421.99,
+    "publication_date": "2/11/2014"
+  },
+  {
+    "id": 45,
+    "title": "Node Mastery",
+    "author": "Marice Isgar",
+    "price": 21.99,
+    "publication_date": "7/16/2015"
+  },
+  {
+    "id": 46,
+    "title": "Collema callibotrys Tuck.",
+    "author": "Celestyna Hullyer",
+    "price": 388.03,
+    "publication_date": "4/14/2013"
+  },
+  {
+    "id": 47,
+    "title": "Ranunculus trichophyllus Chaix var. eradicatus (Laest.) W. Drew",
+    "author": "Nicholas Fernant",
+    "price": 605.23,
+    "publication_date": "7/5/2018"
+  },
+  {
+    "id": 48,
+    "title": "Goodyera tesselata Lodd.",
+    "author": "Sherill Petticrew",
+    "price": 111.47,
+    "publication_date": "6/29/2020"
+  },
+  {
+    "id": 49,
+    "title": "Agave shawii Engelm.",
+    "author": "Drucy Berr",
+    "price": 793.64,
+    "publication_date": "7/24/2009"
+  },
+  {
+    "id": 50,
+    "title": "Dactylospora Körb.",
+    "author": "Ardelia Iacovone",
+    "price": 724.07,
+    "publication_date": "11/25/2001"
+  },
+  {
+    "id": 51,
+    "title": "Conyza primulifolia (Lam.) Cuatrec. & Lourteig",
+    "author": "Alex Klaessen",
+    "price": 886.17,
+    "publication_date": "5/20/2016"
+  },
+  {
+    "id": 52,
+    "title": "Arthropodium cirrhatum (G. Forst.) R. Br.",
+    "author": "Abbe Airds",
+    "price": 849.23,
+    "publication_date": "9/16/2005"
+  },
+  {
+    "id": 53,
+    "title": "Sarracenia rosea Naczi, Case & R.B. Case",
+    "author": "Jarrett Warby",
+    "price": 298.05,
+    "publication_date": "11/6/2022"
+  },
+  {
+    "id": 54,
+    "title": "Thamnolia Ach. ex Schaerer",
+    "author": "Ora ffrench Beytagh",
+    "price": 340.22,
+    "publication_date": "11/15/2011"
+  },
+  {
+    "id": 55,
+    "title": "Cupaniopsis anacardioides (A. Rich.) Radlk.",
+    "author": "Kimbell Farguhar",
+    "price": 341.17,
+    "publication_date": "6/23/2015"
+  },
+  {
+    "id": 56,
+    "title": "Acarospora radicata H. Magn.",
+    "author": "Emmet Halliburton",
+    "price": 657.63,
+    "publication_date": "11/23/2019"
+  },
+  {
+    "id": 57,
+    "title": "Lepidium alyssoides A. Gray var. alyssoides",
+    "author": "Flin July",
+    "price": 691.52,
+    "publication_date": "2/1/2020"
+  },
+  {
+    "id": 58,
+    "title": "Syngonium Schott",
+    "author": "Carlin MacGillavery",
+    "price": 960.29,
+    "publication_date": "10/23/2006"
+  },
+  {
+    "id": 59,
+    "title": "Zamia amblyphyllidia D.W. Stev.",
+    "author": "Bertrando Sorrel",
+    "price": 732.29,
+    "publication_date": "7/24/2020"
+  },
+  {
+    "id": 60,
+    "title": "Bryum gemmiparum De Not.",
+    "author": "Bud Goodale",
+    "price": 112.46,
+    "publication_date": "8/23/2005"
+  },
+  {
+    "id": 61,
+    "title": "Chamaecrista lineata (Sw.) Greene var. keyensis (Pennell) Irwin & Barneby",
+    "author": "Ahmad Pitherick",
+    "price": 837.5,
+    "publication_date": "12/7/2021"
+  },
+  {
+    "id": 62,
+    "title": "Phytolacca rivinoides Kunth & Bouché",
+    "author": "Kath Stitt",
+    "price": 498.35,
+    "publication_date": "6/28/2017"
+  },
+  {
+    "id": 63,
+    "title": "Arctostaphylos viscida Parry ssp. viscida",
+    "author": "Raven Vanlint",
+    "price": 31.05,
+    "publication_date": "1/14/2012"
+  },
+  {
+    "id": 64,
+    "title": "Pittosporum resiniferum Hemsl.",
+    "author": "Guthry Cheng",
+    "price": 276.12,
+    "publication_date": "11/26/2014"
+  },
+  {
+    "id": 65,
+    "title": "Eryngium articulatum Hook.",
+    "author": "Rochell Heditch",
+    "price": 535.42,
+    "publication_date": "8/16/2016"
+  },
+  {
+    "id": 66,
+    "title": "Penstemon cyathophorus Rydb.",
+    "author": "Adolf Nicholson",
+    "price": 812.99,
+    "publication_date": "6/7/2014"
+  },
+  {
+    "id": 67,
+    "title": "Lupinus neomexicanus Greene",
+    "author": "Jessie Bool",
+    "price": 671.17,
+    "publication_date": "10/19/2021"
+  },
+  {
+    "id": 68,
+    "title": "Phacelia neomexicana Thurb. ex Torr.",
+    "author": "Packston Rihosek",
+    "price": 603.2,
+    "publication_date": "10/12/2002"
+  },
+  {
+    "id": 69,
+    "title": "Eriogonum giganteum S. Watson",
+    "author": "Zenia Sorro",
+    "price": 827.03,
+    "publication_date": "4/18/2005"
+  },
+  {
+    "id": 70,
+    "title": "Otholobium Stirt.",
+    "author": "Ainsley Daybell",
+    "price": 700.4,
+    "publication_date": "8/25/2010"
+  },
+  {
+    "id": 71,
+    "title": "Arthonia ochrolutea Nyl.",
+    "author": "Rosmunda McDougall",
+    "price": 504.62,
+    "publication_date": "3/17/2013"
+  },
+  {
+    "id": 72,
+    "title": "Linum catharticum L.",
+    "author": "Ettie Ayrs",
+    "price": 644.55,
+    "publication_date": "6/3/2007"
+  },
+  {
+    "id": 73,
+    "title": "Astragalus crassicarpus Nutt.",
+    "author": "Hana Fort",
+    "price": 393.82,
+    "publication_date": "6/27/2017"
+  },
+  {
+    "id": 74,
+    "title": "Physostegia godfreyi Cantino",
+    "author": "Sari Vogeler",
+    "price": 999.59,
+    "publication_date": "11/24/2018"
+  },
+  {
+    "id": 75,
+    "title": "Nemophila pulchella Eastw. var. gracilis (Eastw.) Constance",
+    "author": "Brittaney Mutlow",
+    "price": 366.17,
+    "publication_date": "2/9/2005"
+  },
+  {
+    "id": 76,
+    "title": "Amaranthus crassipes Schltdl.",
+    "author": "Elisabet Iannelli",
+    "price": 953.75,
+    "publication_date": "4/26/2013"
+  },
+  {
+    "id": 77,
+    "title": "Cuscuta californica Hook. & Arn. var. apiculata Engelm.",
+    "author": "Aurlie Attenbrow",
+    "price": 709.59,
+    "publication_date": "5/8/2013"
+  },
+  {
+    "id": 78,
+    "title": "Pertusaria copiosa Erichsen",
+    "author": "Sherry Boyd",
+    "price": 364.46,
+    "publication_date": "8/18/2020"
+  },
+  {
+    "id": 79,
+    "title": "Peperomia portoricensis Urb.",
+    "author": "Odelinda Canland",
+    "price": 935.48,
+    "publication_date": "9/23/2004"
+  },
+  {
+    "id": 80,
+    "title": "Litchi Sonn.",
+    "author": "Ethelind Baumer",
+    "price": 545.34,
+    "publication_date": "9/27/2002"
+  },
+  {
+    "id": 81,
+    "title": "Pleuridium ravenelii Austin",
+    "author": "Mill Arundel",
+    "price": 1.27,
+    "publication_date": "3/9/2004"
+  },
+  {
+    "id": 82,
+    "title": "Cymopterus evertii R.L. Hartm. & Kirkpatrick",
+    "author": "Kasey Binnall",
+    "price": 504.86,
+    "publication_date": "3/9/2015"
+  },
+  {
+    "id": 83,
+    "title": "Trichostema suffrutescens Kearney",
+    "author": "Fawn Coupland",
+    "price": 114.3,
+    "publication_date": "10/26/2006"
+  },
+  {
+    "id": 84,
+    "title": "Torilis leptophylla (L.) Rchb. f.",
+    "author": "Corabella Camerello",
+    "price": 836.5,
+    "publication_date": "10/28/2004"
+  },
+  {
+    "id": 85,
+    "title": "Asplenium sessilifolium Desv.",
+    "author": "Vaughn Gever",
+    "price": 978.73,
+    "publication_date": "7/10/2018"
+  },
+  {
+    "id": 86,
+    "title": "The life Mastery",
+    "author": "Goutham",
+    "price": 50,
+    "publication_date": "2022-11-21"
+  },
+  {
+    "id": 87,
+    "title": "THE LIE",
+    "author": "VIVEK",
+    "price": 32.99,
+    "publication_date": "2021-02-01"
+  }
+]

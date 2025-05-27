@@ -1,0 +1,36 @@
+***************************************** DEVELOPNG  A SIMPLE REST API FOR BOOK STORE APP ********************************************
+
+                                     
+                                                         TASK 01:                           
+
+ Prepare a json file with the following details:
+
+ 1.BOOK_ID===============> id.
+ 2.BOOK_TITLE============> title.
+ 3.BOOK_AUTHOR===========> author.
+ 4.BOOK_PRICE============> price.
+ 5.BOOK_PUBLICATION_DATE==> publication_date.
+ 
+
+                                                       TASK 02:
+
+*Create an app(folder) with name "BOOK_STORE" in editor.
+*Initialize the node.js using terminal.
+
+
+                                                       TASK 03:
+
+Installing the POSTMAN application for testing our API. Perform the methods using this application.
+
+
+                                                       TASK 04:
+
+Performing the endpoints or the methods to our app.
+The methods are:
+
+1. GET    ============> gives all books information.
+2. POST   ============> creates a new book.
+3. PUT    ============> helps in making changing in the exsisting  item/book.
+    3.1 PUT/:ID ============> makes changes to desired book by using id as reference.
+4. DELETE ============> deletes the item/book.  
+    4.1 DELETE/:ID ============> deletes the desired item by using id reference of the book.                         
